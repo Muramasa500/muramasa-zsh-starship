@@ -4,10 +4,12 @@
 
 Zsh & Starship configuration files
 
-![Shell](https://img.shields.io/badge/Shell-zsh-89e051?style=flat-square&logo=gnu-bash&logoColor=white)
-![Prompt](https://img.shields.io/badge/Prompt-Starship-DD00FF?style=flat-square&logo=starship&logoColor=white)
-![Theme](https://img.shields.io/badge/Theme-Catppuccin%20Macchiato-ed8796?style=flat-square&logo=data:image/svg+xml;base64,&labelColor=b4befe)
-![License](https://img.shields.io/github/license/Muramasa500/muramasa-zsh-starship?style=flat-square)
+![Shell](https://img.shields.io/badge/Shell-zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
+![Prompt](https://img.shields.io/badge/Prompt-Starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
+![Theme](https://img.shields.io/badge/Theme-Catppuccin%20Macchiato-8aadf4?style=for-the-badge&logo=catppuccin&logoColor=white)<br>
+![Stars](https://img.shields.io/github/stars/Muramasa500/muramasa-zsh-starship?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Muramasa500/muramasa-zsh-starship?style=for-the-badge)
+![License](https://img.shields.io/github/license/Muramasa500/muramasa-zsh-starship?style=for-the-badge)
 
 </div>
 
